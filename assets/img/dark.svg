@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 175.99 144.18">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 11.41px;
+      }
+
+      .cls-1, .cls-2 {
+        font-family: Gotham-Bold, Gotham;
+        font-weight: 700;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        font-size: 29.33px;
+      }
+
+      .cls-3 {
+        fill-rule: evenodd;
+        stroke-width: 0px;
+      }
+    </style>
+  </defs>
+  <path class="cls-3" d="M47.42,13.2c.36,9.2.02,19.06.03,28.34.01,13.03,4.28,19.42,11.04,27.8l3.39,3.55c5.8,5.08,12.08,9.67,19.36,12.81,1.07.46,4.01,2.45,4.96,1.67.31-.32.63.49.13-.94l-7.91-13.75c-3.35-5.92-1.7-3.26-8.42-8.85-1.81-1.51-4.06-4.21-5.56-6.19-2.55-3.37-4.73-7.9-4.83-12.5-.18-7.73.21-15.59-.04-23.3,1.66-.24,3.99-1.21,5.87-1.62,2.09-.46,4.19-.95,6.33-1.34,9.15-1.66,18.59-1.58,27.74-.16,2.28.35,10.59,2.17,11.93,3.14-2.92,6.01-8.17,15.53-10.46,20.69-2.48,5.6-7.84,14.57-10.67,20.8-1.17-1.62-7.86-13.91-9.63-16.91-.91-1.55-1.14-1.26-1.15-3.45,0-1.16.13-3.2-.12-4.22,5.11-1.6,13.97.17,19.11.87.35-.41,5.54-10.22,5.74-10.88-6.57-1.4-11.5-2.39-18.46-2.29-5.05.08-13.88.71-18.39,2.43.07,4.34-.52,15.68.56,18.96.86,2.62,5.56,9.57,7.24,12.66l14.91,24.92c2.56-1.13,1.95-.61,3.35-3.11,5.2-9.27,10.85-20.94,15.98-30.58,1.5-2.81,3.04-5.68,4.58-8.61l9.11-17.54c1.21-2.22.79-3.19.8-5.9,0-2.27.04-4.57-.02-6.83-19.18-6.74-38.51-8.66-59.02-4.69-6.49,1.26-11.54,2.93-17.47,5.03"/>
+  <path class="cls-3" d="M97.89,81.3c1.06-.37,1.8-.91,2.67-1.49.61-.41.67-.36,1.21-.71.54-.34.73-.59,1.22-.93,5.48-3.83,9.31-7.68,13.29-13.12l2.52-3.71c6.11-11.28,5.15-16.65,5.18-29.08-.77.5-2.69,4.82-3.31,6-1.13,2.15-2.18,4.13-3.29,6.08-1.07,1.89-2.33,4.3-3.18,6.16l-16.32,30.79Z"/>
+  <text class="cls-2" transform="translate(4.57 119.85)"><tspan x="0" y="0">COREVEST</tspan></text>
+  <text class="cls-1" transform="translate(7.87 136.08)"><tspan x="0" y="0">G</tspan></text>
+  <text class="cls-1" transform="translate(17.61 136.08)"><tspan x="0" y="0">E</tspan></text>
+  <text class="cls-1" transform="translate(26.04 136.08)"><tspan x="0" y="0">N</tspan></text>
+  <text class="cls-1" transform="translate(35.85 136.08)"><tspan x="0" y="0">E</tspan></text>
+  <text class="cls-1" transform="translate(44.28 136.08)"><tspan x="0" y="0">R</tspan></text>
+  <text class="cls-1" transform="translate(53.32 136.08)"><tspan x="0" y="0">A</tspan></text>
+  <text class="cls-1" transform="translate(63.12 136.08)"><tspan x="0" y="0">L </tspan></text>
+  <text class="cls-1" transform="translate(74.4 136.08)"><tspan x="0" y="0">S</tspan></text>
+  <text class="cls-1" transform="translate(82.49 136.08)"><tspan x="0" y="0">E</tspan></text>
+  <text class="cls-1" transform="translate(90.93 136.08)"><tspan x="0" y="0">R</tspan></text>
+  <text class="cls-1" transform="translate(99.97 136.08)"><tspan x="0" y="0">V</tspan></text>
+  <text class="cls-1" transform="translate(109.31 136.08)"><tspan x="0" y="0">I</tspan></text>
+  <text class="cls-1" transform="translate(113.94 136.08)"><tspan x="0" y="0">C</tspan></text>
+  <text class="cls-1" transform="translate(123.15 136.08)"><tspan x="0" y="0">E</tspan></text>
+  <text class="cls-1" transform="translate(131.58 136.08)"><tspan x="0" y="0">S </tspan></text>
+  <text class="cls-1" transform="translate(143.1 136.08)"><tspan x="0" y="0">L</tspan></text>
+  <text class="cls-1" transform="translate(150.95 136.08)"><tspan x="0" y="0">T</tspan></text>
+  <text class="cls-1" transform="translate(159.13 136.08)"><tspan x="0" y="0">D</tspan></text>
+</svg>
