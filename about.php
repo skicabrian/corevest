@@ -228,7 +228,7 @@
             <div class="mx-auto grid max-w-screen-xl grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 items-center gap-8 mt-3 text-gray-500 dark:text-gray-400 px-4">
                 <div class="bg-neutral-primary-soft block max-w-sm border border-default rounded-base shadow-xs">
                     <a href="#">
-                        <img class="rounded-t-base" src="assets\img\capital.jpg" alt="photo missing" />
+                        <img class="rounded-t-base w-full h-48 object-cover" src="assets\img\capital.jpg" alt="photo missing" />
                     </a>
                     <div class="p-6 text-center">
                         
@@ -240,7 +240,7 @@
                 </div>
                 <div class="bg-neutral-primary-soft block max-w-sm border border-default rounded-base shadow-xs">
                     <a href="#">
-                        <img class="rounded-t-base" src="assets\img\capital.jpg" alt="photo missing" />
+                        <img class="rounded-t-base w-full h-48 object-cover" src="assets\img\ngo.jpg" alt="photo missing" />
                     </a>
                     <div class="p-6 text-center">
                         
@@ -252,7 +252,7 @@
                 </div>
                 <div class="bg-neutral-primary-soft block max-w-sm border border-default rounded-base shadow-xs">
                     <a href="#">
-                        <img class="rounded-t-base" src="assets\img\capital.jpg" alt="photo missing" />
+                        <img class="rounded-t-base w-full h-48 object-cover" src="assets\img\corporate.jpg" alt="photo missing" />
                     </a>
                     <div class="p-6 text-center">
                         
@@ -264,7 +264,7 @@
                 </div>
                 <div class="bg-neutral-primary-soft block max-w-sm border border-default rounded-base shadow-xs">
                     <a href="#">
-                        <img class="rounded-t-base" src="assets\img\capital.jpg" alt="photo missing" />
+                        <img class="rounded-t-base w-full h-48 object-cover" src="assets\img\building.jpg" alt="photo missing" />
                     </a>
                     <div class="p-6 text-center">
                         
