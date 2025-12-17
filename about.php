@@ -257,7 +257,7 @@
                     <div class="p-6 text-center">
                         
                         <a href="#">
-                            <h5 class="mt-3 mb-6 text-2xl font-semibold tracking-tight text-heading">Private Companies<br/><br/><br/></h5>
+                            <h5 class="mt-3 mb-6 text-2xl font-semibold tracking-tight text-heading">Private Companies<br/><br/></h5>
                         </a>
                         
                     </div>
